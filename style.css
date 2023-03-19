@@ -5,6 +5,7 @@ body {
 
 section {
     display: flex;
+    margin-bottom: 70px;
 }
 
 .half-width {
@@ -15,7 +16,7 @@ section {
 }
 
 .half-width img {
-    width: 100%;
+    width: 90%;
 }
 
 span {
@@ -42,4 +43,10 @@ h3 {
 .top-banner {
     background-image: url(developersite/images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(developersite/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
